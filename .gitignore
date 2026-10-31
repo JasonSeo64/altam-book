@@ -1,0 +1,8 @@
+# 실행하면 생기는 그림·임시 파일은 올리지 않는다
+figures/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+Thumbs.db
+.DS_Store
